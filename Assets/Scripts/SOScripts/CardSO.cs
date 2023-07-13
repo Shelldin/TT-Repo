@@ -13,6 +13,8 @@ public class CardSO : ScriptableObject
     public Sprite backgroundImage;
     public Color backImageColor;
     
+    public int rank;
+    
     //number/power value of card on each cardinal direction
     public int northValue,
         eastValue,

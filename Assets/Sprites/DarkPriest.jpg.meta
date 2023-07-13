@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4537db2ee66162b4ca5a469a59500c3a
+guid: a221eeae6e4031e4ca1cbe51291a2f2e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CardGrid_0
+      name: DarkPriest_0
       rect:
         serializedVersion: 2
-        x: 2099
-        y: 222
-        width: 291
-        height: 430
+        x: 132
+        y: 5
+        width: 613
+        height: 968
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,29 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a83834b9c47998488ca25cbb5d29268
-      internalID: 1411942525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CardGrid_1
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 135
-        width: 2040
-        height: 3120
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 648f19ba8e4c3304581fa346d98ede56
-      internalID: 870876338
+      spriteID: 2c44c8d2a9ae6434dad2f70ef630977e
+      internalID: 1737544934
       vertices: []
       indices: 
       edges: []
@@ -168,8 +147,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      CardGrid_1: 870876338
-      CardGrid_0: 1411942525
+      DarkPriest_0: 1737544934
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
